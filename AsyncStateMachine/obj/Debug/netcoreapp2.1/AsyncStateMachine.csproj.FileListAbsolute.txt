@@ -1,0 +1,11 @@
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\bin\Debug\netcoreapp2.1\AsyncStateMachine.deps.json
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\bin\Debug\netcoreapp2.1\AsyncStateMachine.runtimeconfig.json
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\bin\Debug\netcoreapp2.1\AsyncStateMachine.runtimeconfig.dev.json
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\bin\Debug\netcoreapp2.1\AsyncStateMachine.dll
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\bin\Debug\netcoreapp2.1\AsyncStateMachine.pdb
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\obj\Debug\netcoreapp2.1\AsyncStateMachine.csprojAssemblyReference.cache
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\obj\Debug\netcoreapp2.1\AsyncStateMachine.csproj.CoreCompileInputs.cache
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\obj\Debug\netcoreapp2.1\AsyncStateMachine.AssemblyInfoInputs.cache
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\obj\Debug\netcoreapp2.1\AsyncStateMachine.AssemblyInfo.cs
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\obj\Debug\netcoreapp2.1\AsyncStateMachine.dll
+C:\Users\johannes.pandis\source\repos\InsideAsync\AsyncStateMachine\obj\Debug\netcoreapp2.1\AsyncStateMachine.pdb

@@ -1,0 +1,11 @@
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\bin\Debug\netcoreapp2.1\SyncContextDemo.deps.json
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\bin\Debug\netcoreapp2.1\SyncContextDemo.runtimeconfig.json
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\bin\Debug\netcoreapp2.1\SyncContextDemo.runtimeconfig.dev.json
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\bin\Debug\netcoreapp2.1\SyncContextDemo.dll
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\bin\Debug\netcoreapp2.1\SyncContextDemo.pdb
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\obj\Debug\netcoreapp2.1\SyncContextDemo.csprojAssemblyReference.cache
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\obj\Debug\netcoreapp2.1\SyncContextDemo.csproj.CoreCompileInputs.cache
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\obj\Debug\netcoreapp2.1\SyncContextDemo.AssemblyInfoInputs.cache
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\obj\Debug\netcoreapp2.1\SyncContextDemo.AssemblyInfo.cs
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\obj\Debug\netcoreapp2.1\SyncContextDemo.dll
+C:\Users\johannes.pandis\source\repos\InsideAsync\SyncContextDemo\obj\Debug\netcoreapp2.1\SyncContextDemo.pdb

@@ -1,0 +1,11 @@
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\bin\Debug\netcoreapp2.1\ThreadingDemo.deps.json
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\bin\Debug\netcoreapp2.1\ThreadingDemo.runtimeconfig.json
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\bin\Debug\netcoreapp2.1\ThreadingDemo.runtimeconfig.dev.json
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\bin\Debug\netcoreapp2.1\ThreadingDemo.dll
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\bin\Debug\netcoreapp2.1\ThreadingDemo.pdb
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\obj\Debug\netcoreapp2.1\ThreadingDemo.csprojAssemblyReference.cache
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\obj\Debug\netcoreapp2.1\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\obj\Debug\netcoreapp2.1\ThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\obj\Debug\netcoreapp2.1\ThreadingDemo.AssemblyInfo.cs
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\obj\Debug\netcoreapp2.1\ThreadingDemo.dll
+C:\Users\johannes.pandis\source\repos\InsideAsync\ThreadingDemo\obj\Debug\netcoreapp2.1\ThreadingDemo.pdb
